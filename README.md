@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+i am jensen who is a newbie developer.
